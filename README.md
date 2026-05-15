@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phgandhi02
 - 👀 I’m interested in robotics, edge/physical AI, and decision making systems.
 - 🌱 I’m currently learning knowledge engineering, ROS2, and decision-making systems for robotics.
-- 📫 How to reach me @ phgandhi02@gmail.com
+- 📫 How to reach me @ phgandh2 @ ncsu.com
 - ⚡ Fun fact: I love gregorian chant and philosophy.
 
 <!---
